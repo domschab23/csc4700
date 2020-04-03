@@ -1,6 +1,6 @@
 What is your favorite movie?
-
+Django
 If you could go anywhere in the world for vacation, where would it be?
-
+Maldives
 If you could have any super power, what would it be (and why that power)?
-
+teleportation! It would make life so convenient
